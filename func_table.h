@@ -10,5 +10,6 @@ void my_strcpy(void);
 
 // memory function
 void my_memcpy(void);
+void my_malloc(void);
 
 #endif // FUNC_TABLE_H
