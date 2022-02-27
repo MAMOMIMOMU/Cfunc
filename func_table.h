@@ -6,5 +6,9 @@ typedef void (*STDFunc)(void);
 
 // string function
 void my_strtok(void);
+void my_strcpy(void);
+
+// memory function
+void my_memcpy(void);
 
 #endif // FUNC_TABLE_H
